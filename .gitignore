@@ -1,0 +1,6 @@
+# env variables dont go to github but for learning purposes we might sometimes push
+
+.env
+
+node_modules
+
